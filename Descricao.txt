@@ -1,0 +1,4 @@
+Ultilizei:
+        Vscode
+        Xampp
+        Mysqli Workbench
